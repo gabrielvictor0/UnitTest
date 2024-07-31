@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\bin\Debug\net8.0\Calculation.exe
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\bin\Debug\net8.0\Calculation.deps.json
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\bin\Debug\net8.0\Calculation.runtimeconfig.json
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\bin\Debug\net8.0\Calculation.dll
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\bin\Debug\net8.0\Calculation.pdb
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.sourcelink.json
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.dll
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\refint\Calculation.dll
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.pdb
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\Calculation.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\UnitTest\UnitTest\obj\Debug\net8.0\ref\Calculation.dll
